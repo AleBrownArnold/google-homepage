@@ -1,0 +1,25 @@
+.image{
+  display: block;
+  margin: auto;
+  padding-top: 100px;
+}
+.input{
+  display: block;
+  margin: auto;
+  top:auto;
+}
+li{
+  float: right;
+}
+ul{
+  list-style-type:  none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+li,a{
+  display: block;
+  padding: 8px;
+}
